@@ -26,27 +26,34 @@ h1 {
 .image {
   width: 300px;
   border-radius: 8px;
-  border: 3px solid #f5dada;
+  border: 3px solid #3a7a2e;
   display: block;
   margin-bottom: 20px;
 }
 
 h2 {
-  font-size: 28px;
   margin-bottom: 15px;
-  color: #b23a48;
   margin-left: 10px;
+  color: #4f772d;
 }
 
 p,
-ol,
-ul {
+ul,
+ol {
   margin-bottom: 24px;
 }
 
-ol,
-ul {
+ul,
+ol {
   margin-left: 18px;
+}
+
+h3 {
+  display: inline-block;
+  border-bottom: 2px solid #ccc;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  padding-bottom: 2px;
 }
 
 .link-style {
